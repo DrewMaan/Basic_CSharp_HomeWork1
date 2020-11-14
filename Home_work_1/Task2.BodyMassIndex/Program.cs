@@ -22,7 +22,7 @@ namespace Task2.BodyMassIndex
 
 			var bodyMassIndex = userWeight / (userHeight * userHeight);
 
-			Console.WriteLine($"You body mass index: {bodyMassIndex}.");
+			Console.WriteLine($"You body mass index: {bodyMassIndex:N}.");
 		}
 	}
 }
