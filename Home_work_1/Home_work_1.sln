@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4.SwapVariables", "Task
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5.OutPutDataFormat", "Task5.OutPutDataFormat\Task5.OutPutDataFormat.csproj", "{56A1B3C5-3350-47E6-9170-69CFF3BD84A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task6.HelpClass", "Task6.HelpClass\Task6.HelpClass.csproj", "{1BAEF9AE-3AE1-4E2B-9C55-0B1E0063E170}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{56A1B3C5-3350-47E6-9170-69CFF3BD84A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A1B3C5-3350-47E6-9170-69CFF3BD84A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A1B3C5-3350-47E6-9170-69CFF3BD84A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BAEF9AE-3AE1-4E2B-9C55-0B1E0063E170}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BAEF9AE-3AE1-4E2B-9C55-0B1E0063E170}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BAEF9AE-3AE1-4E2B-9C55-0B1E0063E170}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BAEF9AE-3AE1-4E2B-9C55-0B1E0063E170}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

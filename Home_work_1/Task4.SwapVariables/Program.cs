@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace Task4.SwapVariables
 {
+	/*
+	  
+	 * Написать программу обмена значениями двух переменных:
+	 *	а) с использованием третьей переменной;
+	 *	б) без использования третьей переменной.
+	 
+	  Выполнил: Касимовский Андрей
+	*/
 	class Program
 	{
 		static void Main(string[] args)
